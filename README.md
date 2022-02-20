@@ -35,7 +35,7 @@ Dot Voting
 
 
 ## Meeting Schedule
-We generally meet virtually every other Saturday morning at 10:00 am ET. [View calendar](https://calendar.google.com/calendar/embed?src=c_a0ft9ge1v6c2654g5a5l20tdbo%40group.calendar.google.com&ctz=America%2FNew_York)
+We generally meet virtually every two weeks on Saturday at 10:00 am ET. [View calendar](https://calendar.google.com/calendar/embed?src=c_a0ft9ge1v6c2654g5a5l20tdbo%40group.calendar.google.com&ctz=America%2FNew_York)
 
 
 ### Prerequesites
@@ -53,7 +53,7 @@ Your help is greatly appreciated. Here is how to get involved:
 2. Once approved, send the project lead your email to get invited to the Google Drive folder. 
 3. Add yourself to the CFO + Brigade Contact Directory. 
 4. Fill out the Brigade Collab Quick Sheet with information about your brigade. Update any missing information.
-5. Participate in bimonthly Brigade Collab meetings. We meet every other Saturday at 10:00 am ET on Zoom. 
+5. Participate in  Brigade Collab meetings. We meet Saturday every other week at 10:00 am ET on Zoom. 
 
 ## Questions
 
