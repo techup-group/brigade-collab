@@ -22,7 +22,7 @@ Diagram.net
 We generally meet virtually every two weeks on Saturday at 10:00 am ET. [View calendar](https://calendar.google.com/calendar/embed?src=c_a0ft9ge1v6c2654g5a5l20tdbo%40group.calendar.google.com&ctz=America%2FNew_York)
 
 
-### Prerequesites
+## Prerequesites
 
 You will need the following:
 
