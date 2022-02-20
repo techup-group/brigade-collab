@@ -30,8 +30,8 @@ Dot Voting
 
 **Contacts**
 
-- Krystina Ramos, primary, [Email](krystina@codefororlando.com), @Krystina on Slack
-- Frank Perez, secondary, [Email](frank.perez@codefortampabay.org), @Francisco_Code4TampaBay on Slack
+- Krystina Ramos, primary, [Email](mailto:krystina@codefororlando.com), @Krystina on Slack
+- Frank Perez, secondary, [Email](mailto:frank.perez@codefortampabay.org), @Francisco_Code4TampaBay on Slack
 
 
 ## Meeting Schedule
@@ -66,7 +66,7 @@ Link coming soon
 
 Code for Tampa Bay and Code for Orlando expects that all contributors and content adhere to the [Brigade Code of Conduct](https://brigade.codeforamerica.org/about/code-of-conduct/). You can report a Code of Conduct concern through:
 
-- [Code for Orlando Leadership](leadership@codefororlando.com) or [Frank Perez](frank.perez@codefortampabay.org)
+- [Code for Orlando Leadership](mailto:leadership@codefororlando.com) or [Frank Perez](mailto:frank.perez@codefortampabay.org)
 - Email Code for America at safespace@codeforamerica.org. 
 
 
