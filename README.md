@@ -12,33 +12,17 @@ Slack
 
 Diagram.net
 
-**Methods Used**
-
-Mind Mapping
-
-Point of View problem statement 
-
-How might we problem statement
-
-Brainstorming
-
-Rapid Ideation
-
-Affinity Mapping
-
-Dot Voting
-
 **Contacts**
 
-- Krystina Ramos, primary,[email](krystina@codefororlando.com), @Krystina on Slack
-- Frank Perez, secondary, [email](frank.perez@codefortampabay.org), @Francisco_Code4TampaBay on Slack
+- Krystina Ramos, primary, [Email](mailto:krystina@codefororlando.com), @Krystina on Slack
+- Frank Perez, secondary, [Email](mailto:frank.perez@codefortampabay.org), @Francisco_Code4TampaBay on Slack
 
 
 ## Meeting Schedule
-We generally meet virtually every other Saturday morning at 10:00 am ET. [View calendar](https://calendar.google.com/calendar/embed?src=c_a0ft9ge1v6c2654g5a5l20tdbo%40group.calendar.google.com&ctz=America%2FNew_York)
+We generally meet virtually every two weeks on Saturday at 10:00 am ET. [View calendar](https://calendar.google.com/calendar/embed?src=c_a0ft9ge1v6c2654g5a5l20tdbo%40group.calendar.google.com&ctz=America%2FNew_York)
 
 
-### Prerequesites
+## Prerequesites
 
 You will need the following:
 
@@ -53,7 +37,7 @@ Your help is greatly appreciated. Here is how to get involved:
 2. Once approved, send the project lead your email to get invited to the Google Drive folder. 
 3. Add yourself to the CFO + Brigade Contact Directory. 
 4. Fill out the Brigade Collab Quick Sheet with information about your brigade. Update any missing information.
-5. Participate in bimonthly Brigade Collab meetings. We meet every other Saturday at 10:00 am ET on Zoom. 
+5. Participate in  Brigade Collab meetings. We meet Saturday every other week at 10:00 am ET on Zoom. 
 
 ## Questions
 
@@ -64,11 +48,10 @@ Link coming soon
 
 ## Code of Conduct 
 
-Code for Tampa Bay and Code for Orlando expects that all contributors and content adhere to the [Brigade Code of Conduct](https://brigade.codeforamerica.org/about/code-of-conduct/). If you would like to report a Code of Conduct concern, please contact:
+Code for Tampa Bay and Code for Orlando expects that all contributors and content adhere to the [Brigade Code of Conduct](https://brigade.codeforamerica.org/about/code-of-conduct/). You can report a Code of Conduct concern through:
 
-- leadership@codefororlando.com
-- Frank Perez at frank.perez@codefortampabay.org
-- You can also email Code for America at safespace@codeforamerica.org. 
+- [Code for Orlando Leadership](mailto:leadership@codefororlando.com) or [Frank Perez](mailto:frank.perez@codefortampabay.org)
+- Email Code for America at safespace@codeforamerica.org. 
 
 
 ## Further Reading
