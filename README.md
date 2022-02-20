@@ -12,22 +12,6 @@ Slack
 
 Diagram.net
 
-**Methods Used**
-
-Mind Mapping
-
-Point of View problem statement 
-
-How might we problem statement
-
-Brainstorming
-
-Rapid Ideation
-
-Affinity Mapping
-
-Dot Voting
-
 **Contacts**
 
 - Krystina Ramos, primary, [Email](mailto:krystina@codefororlando.com), @Krystina on Slack
