@@ -1,6 +1,6 @@
 # Brigade Collaboration
 
-Welcome to Brigade Collaboration! This repository houses information and resources to help organize and manage collaborative efforts between Code for Tampa Bay, Code for Tampa Bay, and other Southeast Brigades. 
+Welcome to Brigade Collaboration! This repository houses information and resources to help organize and manage collaborative efforts between Code for Tampa Bay, Code for Orlando, and other Southeast Brigades. 
 
 **Technologies Used**
 
